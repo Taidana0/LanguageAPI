@@ -5,6 +5,8 @@
   "contributors": ["NetureCrafter"],
 
   "values": {
+    "raw.coins": "Coins",
+    
     "message.noPerms": "{PREFIX} §cYou dont have permission to use this command!",
     
     "ui.button.gungame": "§2GunGame"
