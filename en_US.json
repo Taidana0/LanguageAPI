@@ -5,6 +5,8 @@
   "contributors": ["NetureCrafter"],
 
   "values": {
+    "raw.online": "Online",
+    "raw.server": "Server",
     "raw.coins": "Coins",
     
     "message.noPerms": "{PREFIX} §cYou dont have permission to use this command!",
