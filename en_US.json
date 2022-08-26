@@ -5,6 +5,8 @@
   "contributors": ["NetureCrafter"],
 
   "values": {
-    "message.noPerms": "{PREFIX} §cYou dont have permission to use this command!"
+    "message.noPerms": "{PREFIX} §cYou dont have permission to use this command!",
+    
+    "ui.button.gungame": "§2GunGame"
   }
 }
