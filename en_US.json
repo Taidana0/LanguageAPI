@@ -14,6 +14,9 @@
     "languageSystem.newSelected": "{PREFIX} §aYou have successfully set your default language to §b{0}§a.",
     "languageSystem.reloaded": "{PREFIX} §aYou have successfully updated the language keys.",
     
+    "item.gameTeleporter": "§eGame Teleporter",
+    "item.profile": "§bProfile",
+    
     "%ui.title.gameTeleporter": "§eGame Teleporter",
     
     "ui.button.gungame": "§2GunGame"
