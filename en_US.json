@@ -3,4 +3,8 @@
   "prefix": "§bNetureMC §9» ",
   "locale": "en_US",
   "contributors": ["NetureCrafter"],
+
+  "values": {
+    "message.noPerms": "{PREFIX} §cYou dont have permission to use this command!"
+  }
 }
