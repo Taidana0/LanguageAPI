@@ -2,5 +2,9 @@
   "name": "Deutsch",
   "prefix": "§bNetureMC §9» ",
   "locale": "de_DE",
-  "contributors": ["NetureCrafter"]
+  "contributors": ["NetureCrafter"],
+
+  "values": {
+    "message.noPerms": "{PREFIX} §cFür diesen Befehl hast du keine Berechtigung!"
+  }
 }
