@@ -9,6 +9,11 @@
     
     "message.noPerms": "{PREFIX} §cYou dont have permission to use this command!",
     
+    "languageSystem.newSelected": "{PREFIX} §aYou have successfully set your default language to §b{0}§a.",
+    "languageSystem.reloaded": "{PREFIX} §aYou have successfully updated the language keys.",
+    
+    "ui.title.gameTeleporter": "§eGame Teleporter",
+    
     "ui.button.gungame": "§2GunGame"
   }
 }
