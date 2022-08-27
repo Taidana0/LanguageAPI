@@ -13,8 +13,12 @@
     "message.transfered": "{PREFIX} §aYou are being connected to the server §6{0}...",
     "message.mustBeNumeric": "{PREFIX} §cPlease enter a number!",
     
-    "languageSystem.newSelected": "{PREFIX} §aYou have successfully set your default language to §b{0}§a.",
+    "languageSystem.newSelected": "{PREFIX} §aYou have successfully set your default language to§b {0}§a.",
     "languageSystem.reloaded": "{PREFIX} §aYou have successfully updated the language keys.",
+    
+    "coinSystem.addCoins": "{PREFIX} §aYou have successfully added§6 {0}§a Coins to§b {1}§a!",
+    "coinSystem.removeCoins": "{PREFIX} §aYou have successfully removed§6 {0}§a Coins to§b {1}§a!",
+    "coinSystem.checkCoins": "{PREFIX} §b{0}§a has§6 {1}§a Coins!",
     
     "item.gameTeleporter": "§eGame Teleporter",
     "item.profile": "§bProfile",
