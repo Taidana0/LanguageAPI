@@ -8,6 +8,10 @@
     "raw.online": "Online",
     "raw.server": "Server",
     "raw.coins": "Coins",
+    "raw.kills": "Kills",
+    "raw.level": "Level",
+    "raw.hightestLevel": "Hightest Level",
+    "raw.map": "Map",
     
     "message.noPerms": "{PREFIX} §cYou dont have permission to use this command!",
     "message.transfered": "{PREFIX} §aYou are being connected to the server §6{0}...",
@@ -15,6 +19,8 @@
     "message.useOnlyNumbers": "{PREFIX} §cPlease use only numbers!",
     "message.playerNotFound": "{PREFIX} §cThis player was not found!",
     "message.providePlayer": "{PREFIX} §cPlease provide a player!",
+    "message.killedPlayer": "{PREFIX} §fYou have killed {0}!",
+    "message.killedBy": "{PREFIX} §fYou have been killed by {0}!",
     
     "languageSystem.newSelected": "{PREFIX} §aYou have successfully set your default language to§b {0}§a.",
     "languageSystem.reloaded": "{PREFIX} §aYou have successfully updated the language keys.",
