@@ -12,12 +12,15 @@
     "message.noPerms": "{PREFIX} §cYou dont have permission to use this command!",
     "message.transfered": "{PREFIX} §aYou are being connected to the server §6{0}...",
     "message.mustBeNumeric": "{PREFIX} §cPlease enter a number!",
+    "message.useOnlyNumbers": "{PREFIX} §cPlease use only numbers!",
     "message.playerNotFound": "{PREFIX} §cThis player was not found!",
+    "message.providePlayer": "{PREFIX} §cPlease provide a player!",
     
     "languageSystem.newSelected": "{PREFIX} §aYou have successfully set your default language to§b {0}§a.",
     "languageSystem.reloaded": "{PREFIX} §aYou have successfully updated the language keys.",
     
     "coinSystem.addCoins": "{PREFIX} §aYou have successfully added§6 {0}§a Coins to§b {1}§a!",
+    "coinSystem.setCoins": "{PREFIX} §aYou have successfully set§b {0}§a Coins to§6 {1}§a!",
     "coinSystem.removeCoins": "{PREFIX} §aYou have successfully removed§6 {0}§a Coins to§b {1}§a!",
     "coinSystem.checkCoins": "{PREFIX} §b{0}§a has§6 {1}§a Coins!",
     
