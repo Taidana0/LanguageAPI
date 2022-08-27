@@ -34,7 +34,7 @@
     "item.gameTeleporter": "§eGame Teleporter",
     "item.profile": "§bProfile",
     
-    "%ui.title.gameTeleporter": "§eGame Teleporter",
+    "ui.title.gameTeleporter": "§eGame Teleporter",
     
     "ui.button.gungame": "§2GunGame"
   }
