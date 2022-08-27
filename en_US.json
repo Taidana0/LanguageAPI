@@ -21,6 +21,7 @@
     "message.providePlayer": "{PREFIX} §cPlease provide a player!",
     "message.killedPlayer": "{PREFIX} §fYou have killed {0}!",
     "message.killedBy": "{PREFIX} §fYou have been killed by {0}!",
+    "message.onlyInLobby": "{PREFIX} §cThat command can be only used in the lobby!",
     
     "languageSystem.newSelected": "{PREFIX} §aYou have successfully set your default language to§b {0}§a.",
     "languageSystem.reloaded": "{PREFIX} §aYou have successfully updated the language keys.",
