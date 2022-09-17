@@ -37,7 +37,7 @@
     "ui.title.gameTeleporter": "§eGame Teleporter",
     "ui.title.language": "§2Language",
     
-    "ui.description.language": "Your current language {0}\nSelect a Language:",
+    "ui.description.language": "votre langue actuelle {0}\nSélectionnez un langage:",
     
     "ui.button.english": "§9English",
     "ui.button.german": "§eGerman",
