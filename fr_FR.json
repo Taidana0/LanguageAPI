@@ -1,1 +1,41 @@
+{
+  "name": "Français",
+  "prefix": "§bNetureMC §9»",
+  "locale": "fr_FR",
+  "contributors": ["Taidana0"],
 
+  "values": {
+    "raw.online": "En ligne",
+    "raw.server": "Serveur",
+    "raw.coins": "Coins",
+    "raw.kills": "Kills",
+    "raw.level": "Niveau",
+    "raw.hightestLevel": "Plus haut niveau",
+    "raw.map": "Map",
+
+    "message.noPerms": "{PREFIX} §cVous n'êtes pas autorisé à utiliser cette commande!",
+    "message.transfered": "{PREFIX} §aVous êtes connecté au serveur §6{0}...",
+    "message.mustBeNumeric": "{PREFIX} §cVeuillez entrer un nombre!",
+    "message.useOnlyNumbers": "{PREFIX} §cVeuillez n'utiliser que des chiffres!",
+    "message.playerNotFound": "{PREFIX} §cCe joueur n'a pas été trouvé!",
+    "message.providePlayer": "{PREFIX} §cVeuillez fournir un joueur!",
+    "message.killedPlayer": "{PREFIX} §fVous avez tué {0}!",
+    "message.killedBy": "{PREFIX} §fVous avez été tué par {0}!",
+    "message.onlyInLobby": "{PREFIX} §cCette commande ne peut être utilisée que dans le Lobby!",
+
+    "languageSystem.newSelected": "{PREFIX} §aVous avez correctement défini votre langue par défaut par§b {0}§a.",
+    "languageSystem.reloaded": "{PREFIX} §Vous avez mis à jour avec succès votre language.",
+
+    "coinSystem.addCoins": "{PREFIX} §aVous avez ajouté avec succès§6 {0}§a Coins pour§b {1}§a!",
+    "coinSystem.setCoins": "{PREFIX} §aVous avez défini avec succès§b {0}§a Coins pour§6 {1}§a!",
+    "coinSystem.removeCoins": "{PREFIX} §aVous avez supprimé avec succès§6 {0}§a Coins pour§b {1}§a!",
+    "coinSystem.checkCoins": "{PREFIX} §b{0}§a a§6 {1}§a Coins!",
+
+    "item.gameTeleporter": "§eGame Teleporter",
+    "item.profile": "§bProfile",
+
+    "ui.title.gameTeleporter": "§eGame Teleporter",
+
+    "ui.button.gungame": "§2GunGame"
+  }
+} 
