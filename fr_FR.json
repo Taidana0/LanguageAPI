@@ -37,11 +37,11 @@
     "ui.title.gameTeleporter": "§eGame Teleporter",
     "ui.title.language": "§2Language",
     
-    "ui.description.language": "votre langue actuelle {0}\nSélectionnez un langage:",
+    "ui.description.language": "votre langue actuelle est le {0}\nSélectionnez un langage:",
     
-    "ui.button.english": "§9English",
-    "ui.button.german": "§eGerman",
-    "ui.button.french": "§cFrench",
+    "ui.button.english": "§9Anglais",
+    "ui.button.german": "§eAllemand",
+    "ui.button.french": "§cFrançais",
     "ui.button.gungame": "§2GunGame"
   }
 } 
